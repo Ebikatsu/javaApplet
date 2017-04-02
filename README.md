@@ -1,1 +1,2 @@
-# javaApplet
+# javaApplet  
+練習
